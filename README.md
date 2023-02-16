@@ -47,13 +47,13 @@
 	
 
 
-
-
-
-
-
-
-
+</details>
+<summary> ᴠᴘꜱ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ </summary>
+sudo apt-get update -y && apt-get upgrade -y
+sudo apt-get -y install git
+sudo pip3 install -U pip
+git clone https://github.com/Hima-xd/Zaan_ms && cd Hima-xd
+pip3 install --upgrade pip setuptools
 	
 
 
