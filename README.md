@@ -54,9 +54,11 @@ sudo apt-get -y install git
 sudo pip3 install -U pip
 git clone https://github.com/Hima-xd/Zaan_ms && cd Hima-xd
 pip3 install --upgrade pip setuptools
-	
-
-
+pip3 install -U -r requirements.txt	
+sudo apt install tmux && tmux
+ python3 -m Hima-xd      
+HERE YOU GO ZAAN S DEPLOYED🥀
+</details>
 
 
 
