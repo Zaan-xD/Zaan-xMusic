@@ -14,13 +14,13 @@
 
 <p align="center">
 
-<a href="https://t.me/zoly_suport"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+               <a href="https://t.me/zoly_suport"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 </p>
 
 <p align="center">
 
-<a href="https://t.me/zoly_suportt"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+              <a href="https://t.me/zoly_suportt"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 </p>
 
