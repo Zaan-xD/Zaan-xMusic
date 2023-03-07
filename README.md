@@ -1,6 +1,6 @@
 [![ZAAN–xD](https://telegra.ph//file/62a42f8aeb8d6005a8796.jpg)](https://t.me/zoly_suport)
 
-#                  #WORLD OF KAAL 
+#                  WORLD OF KAAL 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+ZAAN+SUPPORT+BOT+REPO)](https://t.me/zoly_tolbot)
 
