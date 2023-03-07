@@ -1,12 +1,12 @@
 [![ZAAN–xD](https://telegra.ph//file/62a42f8aeb8d6005a8796.jpg)](https://t.me/zoly_suport)
 
-# 𝐙𝐎𝐋𝐘–𝐒𝐔𝐏𝐎𝐑𝐓
+#             WORLD OF KAAL 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+ZAAN+SUPPORT+BOT+REPO)](https://t.me/zoly_tolbot)
 
 <p align="center">
 
-    ─「 𝐙𝐎𝐋𝐘–𝐒𝐔𝐏𝐎𝐑𝐓 」─
+             ─「 WORLD OF KAAL  」─
 
 </p>
 
